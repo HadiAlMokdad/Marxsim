@@ -1,4 +1,4 @@
-# MarxSim DQN
+# MarxSim
 
 Reinforcement learning in a Marx-inspired agent-based wealth distribution environment.
 
